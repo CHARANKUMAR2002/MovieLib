@@ -1,6 +1,6 @@
 {
-    "name": "moviestream",
-    "short_name": "moviestream",
+    "name": "MovieLib",
+    "short_name": "MovieLib",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
