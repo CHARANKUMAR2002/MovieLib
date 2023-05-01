@@ -10,6 +10,7 @@ const RESOURCES = {
 "assets/loading.gif": "bc56b31a50e519be2ed335a47e75bc62",
 "assets/NOTICES": "360a743eb051eef3dc54565db54127a4",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/www.TamilBlasters.one%20-%20Maattrraan%20(2012)%20%5BTamil%20-%20720p%20BDRip%20-%20x264%20-%20AC-3%205.1%20-%201.4GB%5D.mkv.torrent": "0da6928853c1fddb05bf334b99769049",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
@@ -20,9 +21,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "187ccaaf934b894c8bad3ec5f3e364ff",
 "icons/Icon-maskable-192.png": "187ccaaf934b894c8bad3ec5f3e364ff",
 "icons/Icon-maskable-512.png": "187ccaaf934b894c8bad3ec5f3e364ff",
-"index.html": "caa0848163c318161da39156866d8ff8",
-"/": "caa0848163c318161da39156866d8ff8",
-"main.dart.js": "f96e5e0adcf2578af3316566b0a0d56c",
+"index.html": "aeff1a942975975f69378880e8629304",
+"/": "aeff1a942975975f69378880e8629304",
+"main.dart.js": "f560d4a03634cbde959517f090c9b2b6",
 "manifest.json": "ae1cd465a3a355327e834e699a225432",
 "version.json": "48a26922534469d2592aa9bcac16d3f9"
 };
