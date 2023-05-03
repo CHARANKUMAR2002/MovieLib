@@ -3,14 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "18b0c807724057366b10bd4d354c245b",
+  "assets/AssetManifest.json": "adc69a0beb523d114a266675904f5ff3",
+"assets/assets/cinema.gif": "bf927ef9cb381d38c08dca3cdaef876a",
 "assets/assets/loading.gif": "bc56b31a50e519be2ed335a47e75bc62",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/assets/logo.png": "187ccaaf934b894c8bad3ec5f3e364ff",
+"assets/BetterTogetherSetup.exe": "1245c460e75d2fc9294f5cce22f0b579",
+"assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/loading.gif": "bc56b31a50e519be2ed335a47e75bc62",
-"assets/NOTICES": "360a743eb051eef3dc54565db54127a4",
+"assets/NOTICES": "aa01c79b478d161d6b481e0b904733c6",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/www.TamilBlasters.one%20-%20Maattrraan%20(2012)%20%5BTamil%20-%20720p%20BDRip%20-%20x264%20-%20AC-3%205.1%20-%201.4GB%5D.mkv.torrent": "0da6928853c1fddb05bf334b99769049",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "b00363533ebe0bfdb95f3694d7647f6d",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "0a94bab8e306520dc6ae14c2573972ad",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "9cda082bd7cc5642096b56fa8db15b45",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
@@ -21,10 +26,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "187ccaaf934b894c8bad3ec5f3e364ff",
 "icons/Icon-maskable-192.png": "187ccaaf934b894c8bad3ec5f3e364ff",
 "icons/Icon-maskable-512.png": "187ccaaf934b894c8bad3ec5f3e364ff",
-"index.html": "aeff1a942975975f69378880e8629304",
-"/": "aeff1a942975975f69378880e8629304",
-"main.dart.js": "f560d4a03634cbde959517f090c9b2b6",
-"manifest.json": "ae1cd465a3a355327e834e699a225432",
+"index.html": "0c49ef10ffd44622bbd939e4503e1880",
+"/": "0c49ef10ffd44622bbd939e4503e1880",
+"main.dart.js": "91adafda82ae44887abdf21f273e2bf7",
+"manifest.json": "c30e9b824f55db1824009eddca889a4f",
 "version.json": "48a26922534469d2592aa9bcac16d3f9"
 };
 
