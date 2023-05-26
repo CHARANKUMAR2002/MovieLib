@@ -42667,7 +42667,7 @@ return s},
 a1Q(a,b){return new A.Hr(B.Bc,b,B.PA,null)},
 a2f(a,b){var s,r,q,p=this,o=null,n=p.a.dy,m=A.f4(a),l=m==null?o:m.d
 if(l==null)l=B.ae
-if(n!==B.NC)s=n===B.vQ&&l===B.ad
+if(n!==B.vQ)s=n===B.NC&&l===B.ad
 else s=!0
 m=A.f4(a)
 m=m==null?o:m.Q
@@ -70238,13 +70238,13 @@ I(a,b){var s,r,q,p,o,n=this,m=null,l="Search Movies",k="Add Movies",j=t.w,i=n.e
 if(b.N(j).f.a.a>640){s=A.bc(m,A.anb(B.R,new A.mW("assets/logo.png",m,m),30),B.l,m,m,m,m,m,m,m,new A.as(0,20,0,20),m,m,m)
 r=A.P(150,33,149,243)
 q=A.P(255,41,41,41)
-p=A.b([A.a1r(A.e0(B.n7,B.k,m),A.bK("Home",m,m,m,m,m,m)),A.a1r(A.e0(B.n9,B.k,m),A.bK(l,m,m,m,m,m,m)),A.a1r(A.e0(B.n6,B.k,m),A.bK(k,m,m,m,m,m,m)),A.a1r(A.e0(B.n8,B.k,m),A.bK("Series",m,m,m,m,m,m))],t.P2)
+p=A.b([A.a1r(A.e0(B.n7,B.k,m),A.bK("Movies",m,m,m,m,m,m)),A.a1r(A.e0(B.n9,B.k,m),A.bK(l,m,m,m,m,m,m)),A.a1r(A.e0(B.n6,B.k,m),A.bK(k,m,m,m,m,m,m)),A.a1r(A.e0(B.n8,B.k,m),A.bK("Series",m,m,m,m,m,m))],t.P2)
 o=n.d
 o=A.h7(A.b([new A.yC(q,s,p,o,new A.aca(n),B.G8,r,m),A.iF(i[o],1)],t.p),B.N,B.L,B.O)
 i=o}else i=i[n.d]
 if(b.N(j).f.a.a<=640){j=A.P(150,33,149,243)
 s=A.P(255,41,41,41)
-r=A.b([A.a1k(A.e0(B.n7,B.k,m),"Home"),A.a1k(A.e0(B.n9,B.k,m),l),A.a1k(A.e0(B.n6,B.k,m),k),A.a1k(A.e0(B.n8,B.k,m),"Series")],t.p)
+r=A.b([A.a1k(A.e0(B.n7,B.k,m),"Movies"),A.a1k(A.e0(B.n9,B.k,m),l),A.a1k(A.e0(B.n6,B.k,m),k),A.a1k(A.e0(B.n8,B.k,m),"Series")],t.p)
 s=new A.yA(new A.o_(m,m,m,j,m,m,m,m),new A.IK(n.d,r,new A.acb(n),s,65,B.G7,m),m)
 j=s}else j=m
 return A.Kz(m,i,j)}}
@@ -75518,8 +75518,8 @@ B.Mv=new A.m(!0,B.k,null,".SF UI Text",null,null,null,null,null,null,null,null,n
 B.KC=new A.m(!0,B.k,null,".SF UI Text",null,null,null,null,null,null,null,null,null,null,null,null,null,B.i,null,null,null,"whiteCupertino labelSmall",null,null,null)
 B.NB=new A.dq(B.JW,B.LY,B.Mf,B.N5,B.Lt,B.Kl,B.M6,B.Lw,B.LG,B.MH,B.Kw,B.Nb,B.Lm,B.Mv,B.KC)
 B.vP=new A.AN(1,"longestLine")
-B.vQ=new A.AO(0,"system")
-B.NC=new A.AO(2,"dark")
+B.NC=new A.AO(0,"system")
+B.vQ=new A.AO(2,"dark")
 B.ND=new A.AP(null)
 B.bM=new A.AQ(0,"clamp")
 B.vR=new A.AQ(3,"decal")
