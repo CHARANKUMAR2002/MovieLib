@@ -29,7 +29,7 @@ MovieLib is a cross-platform mobile application developed using Flutter that all
 
 ## ****Usage****
 
-Android App ⇒ [https://tinyurl.com/MovieLib/](MovieLib)
+Android App ⇒ [MovieLib](https://tinyurl.com/MovieLib/)
 
 Website ⇒ [https://charankumar2002.github.io/MovieLib/](https://charankumar2002.github.io/MovieLib/#/)
 
